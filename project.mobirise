@@ -25,7 +25,7 @@
         {
           "_styles": {
             ".mbr-header__text": {
-              "color": "#353535"
+              "color": "#ffffff"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
@@ -35,6 +35,10 @@
             },
             ".mbr-article P": {
               "color": "#404040"
+            },
+            ".mbr-article H4": {
+              "font-size": "17px",
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -48,16 +52,16 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/gta-iv-city-wallpaper-2000x1125.jpg",
             "bgColor": "#3c3c3c",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
+            "overlay": true,
             "overlayOpacity": 0.5,
-            "overlayColor": "#222",
+            "overlayColor": "#000000",
             "inverse": false,
             "showTitle": true,
             "showMeta": false,
@@ -80,9 +84,9 @@
             }
           },
           "headerAlign": "left",
-          "title": "PRESENTATION",
+          "title": "MODS HACK",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>DESCRIPTION</p>",
+          "text": "<h4>I offer paid hacks that are 100 % undetectable. Why are paid hacks safe ?</h4><h4>Because there are people who are paid to update the hacks as fast as rockstar tries to stop them..</h4><h4>Warning, Money drops from FREE HACKS = More likely to be BANNED</h4><h4>Mes MODS SONT PAYANT, CE QUI VEUX DIRE QU'ils sont 100 % indétectable. Pourquoi les mods payants sont-ils indétectable ?</h4><h4>Car des personnes travaillent sans cesse pour ameliorer les mods contre les mises à jour de Rockstar.</h4><h4>Attention, tout argent droppé sur vous par des mods gratuit = risques elevé de bannissement.</h4>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LIEN ??</a>"
         },
         {
