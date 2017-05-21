@@ -1,3 +1,15 @@
+#msg-box5-9 .mbr-header__text {
+  color: #353535;
+}
+#msg-box5-9 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box5-9 .mbr-article {
+  color: #ffffff;
+}
+#msg-box5-9 .mbr-article P {
+  color: #404040;
+}
 #menu-0 .mbr-brand__name {
   font-size: 16px;
 }
@@ -6,12 +18,6 @@
 }
 #menu-0 .mbr-navbar__hamburger {
   color: #ffffff;
-}
-#msg-box1-4 .mbr-header .mbr-header__text {
-  color: #fff;
-}
-#msg-box1-4 .mbr-article {
-  color: #fff;
 }
 #footer1-6 P {
   text-align: center;
